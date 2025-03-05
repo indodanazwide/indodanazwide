@@ -10,7 +10,7 @@
 
 ### ✔️ Proficient In:
 - **Frontend:** HTML5, CSS3, JavaScript, React.js
-- **Backend:** Node.js with Express.js
+- **Backend:** JavaScript, Python, Node.js with Express.js, Flask
 - **Database:** MySQL
 - **APIs:** RESTful APIs
 - **Tools:** Git & GitHub
@@ -19,7 +19,8 @@
 - **Project Management:** Agile, Scrum methodologies
 - **Software Engineering:** Software Development Life Cycle (SDLC)
 - **Backend Technologies:** Enhancing skills in MySQL and Express.js
-- **Frontend Frameworks:** Diving into Vue.js
+- **Frontend Frameworks:** Diving into React.js
+- **Backend Frameworks:** Diving into Flask
 
 ---
 
@@ -35,6 +36,16 @@ Built with:
 - Frontend: **React.js**
 - Backend: **Node.js (Express.js)**
 - Database: **MySQL**
+
+### [Peer-to-peer tutoring system](https://github.com/levs2424/PBDV-PROJECT)
+A full-stack group  tutoring system project where I contribute as a full-stack developer where DUT students can:
+- Book for a tutor
+- Tutors are managed by admin
+
+Built with:
+- Frontend: **HTML5, CSS3 and Vanilla JavaScript**
+- Backend: **Flask**
+- Database: **SQLite**
 
 ---
 
