@@ -1,93 +1,29 @@
 # 👋 Hi, I'm Bukeka Nxumalo!
 
-🎓 **Final-Year ICT Student** at **Durban University of Technology**  
-💻 **Aspiring Software Engineer | Business Intelligence Enthusiast**  
-🌱 Currently delving into **Business Intelligence, Software Engineering, and Project Management**
+Final-Year ICT Student at Durban University of Technology,  Aspiring Software Engineer | Business Intelligence Enthusiast, Currently delving into Business Intelligence, Software Engineering, and Project Management
 
 ---
 
-## 🛠️ Technical Skills
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nxumalobukeka66@gmail.com) 
 
-### ✔️ Proficient In:
-- **Frontend:** HTML5, CSS3, JavaScript, React.js
-- **Backend:** JavaScript, Python, Node.js with Express.js, Flask
-- **Database:** MySQL
-- **APIs:** RESTful APIs
-- **Tools:** Git & GitHub
-
-### 🚀 Currently Exploring:
-- **Project Management:** Agile, Scrum methodologies
-- **Software Engineering:** Software Development Life Cycle (SDLC)
-- **Backend Technologies:** Enhancing skills in MySQL and Express.js
-- **Frontend Frameworks:** Diving into React.js
-- **Backend Frameworks:** Diving into Flask
-
----
-
-## 💼 Projects
-
-### [Rendezvous Restaurant Website](https://github.com/indodanazwide/rendezvous-project)
-A full-stack restaurant system where users can:
-- Browse the menu
-- Place takeaway orders
-- Make reservations
-
-Built with:
-- Frontend: **React.js**
-- Backend: **Node.js (Express.js)**
-- Database: **MySQL**
-
-### [Peer-to-peer tutoring system](https://github.com/levs2424/PBDV-PROJECT)
-A full-stack group  tutoring system project where I contribute as a full-stack developer where DUT students can:
-- Book for a tutor
-- Tutors are managed by admin
-
-Built with:
-- Frontend: **HTML5, CSS3 and Vanilla JavaScript**
-- Backend: **Flask**
-- Database: **SQLite**
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bukekanxumalo)
-
----
-
-## 💻 Tech Stack
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Bukeka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=indodanazwide&theme=react&hide_border=false&include_all_commits=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=indodanazwide&theme=react&hide_border=false)
-
----
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=indodanazwide&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=indodanazwide&theme=github_dark_dimmed&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=indodanazwide&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=indodanazwide&theme=react&no-frame=true&no-bg=false&margin-w=4)
-
----
+![](https://github-profile-trophy.vercel.app/?username=indodanazwide&theme=github_dark_dimmed&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=indodanazwide&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=indodanazwide&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=indodanazwide&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
