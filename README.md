@@ -41,8 +41,8 @@ Passionate about full stack development, cloud engineering, and writing clean, s
 ---
 
 ## What's Next
-- Solo project using **React + Express.js**
-- Upskilling with Firebase (Cloud Functions & Hosting)
+- Solo project using **React**
+- Revisiting both group projects and implement improvements
 - Building toward **Cloud + AI Engineering**
 
 ---
